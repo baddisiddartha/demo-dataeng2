@@ -15,4 +15,4 @@ df = pd.DataFrame({
 
 df.to_csv("bitcoin.csv", index=False)
 
-print("CSV created successfully")
+print("CSV created ")
